@@ -1,0 +1,182 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.sign{
+    display: inline-block;
+background-color: white;
+width: 432px;
+border-radius: 6px;
+position: relative;
+top: 100px;
+left: 50px;
+box-shadow: 0px 0px 10px lightgray;
+padding: 10px;
+
+/* border-width: 3px; */
+/* border-color: red; */
+/* border-style: solid; */
+color: #606770;
+
+}
+
+
+.text{
+    margin: 0px 0px 20px 0px;
+font-size: 14px;
+}
+
+
+hr{
+color: #60677025;
+}
+
+.name{
+
+    border: none;
+}
+.name{
+
+width: 350px;
+height: 30px;
+font-size: 17px;
+border-radius: 6px;
+border: 1px solid #ccd0d5; 
+/* margin-right: 5px; */
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+.name, .email,.password:placeholder-shown{
+  padding-left: 10px;  
+  color: #606770;
+  background-color: #f5f6f7;
+}
+
+.email{
+    width: 350px;
+height: 30px;
+font-size :17px; 
+border: 1px solid #ccd0d5; 
+border-radius: 6px;
+margin-bottom: 10px;
+
+}
+
+.password{
+    border-radius: 6px;
+    width: 350px;
+height: 30px;
+font-size: 17px;
+border: 1px solid #ccd0d5; 
+
+margin-bottom: 10px;
+}
+
+
+.date{
+margin: 0px;
+font-size: 13px;
+
+}
+
+.date1{
+    background-color:white;
+width: 135px;
+height: 40px;
+border: 1px solid #ccd0d5; 
+border-radius: 6px;
+padding-left: 10px;  
+font-size:16px;
+}
+.date1:placeholder-shown{
+    background-color: #f5f6f7;
+}
+
+
+.gender{
+    margin: 10px 0px 0px 0px;
+    font-size: 13px;
+}
+.gender1 {
+display: inline-block;
+border: 1px solid #ccd0d5; 
+border-radius: 6px;
+padding-left: 10px;
+/* padding-right: 30px; */
+
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.gender2{
+
+padding-left: 34px;
+padding-right: 10px;
+}
+
+.gender3{
+    color: black;
+}
+
+
+.term{
+    font-size: 12px;
+}
+
+
+
+.button{
+width: 200px;
+height: 40px;
+background-color: #00a400;
+color:#fff;
+border: 1px solid  #00a400; 
+border-radius: 10px;
+font-size: 22px;
+
+margin-left: 110px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.button:hover{
+    border: 1px solid #79bc64 ;
+    background-color:#79bc64  ;
+}
+
+.button:active{
+
+margin-top: 11px;
+background-color:#578843  ;
+border: 1px solid #578843 ;
+}
+
+.login{
+    width: 100px;
+height: 40px;
+background-color: #00a400;
+color:#fff;
+border: 1px solid  #00a400; 
+border-radius: 10px;
+font-size: 22px;
+
+
+}
+.login:hover{
+    border: 1px solid #79bc64 ;
+    background-color:#79bc64  ;
+}
+
+.login:active{
+
+margin-top: 10px;
+background-color:#578843  ;
+border: 1px solid #578843 ;
+}
+
+

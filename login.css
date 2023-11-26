@@ -1,0 +1,87 @@
+.name input{
+    border: none;
+width: 350px;
+height: 40px;
+font-size: larger;
+border-bottom: solid 4px blue;
+}
+input:focus{
+
+outline: none;
+    border-bottom: solid 4px #00a400;
+}
+.name input:active{
+
+    border-bottom: solid 4px #00a400;
+}
+.name input:hover{
+
+    border-bottom: solid 4px #00a400;
+}
+.name1 input{
+    border: none;
+width: 350px;
+height: 40px;
+font-size: larger;
+border-bottom: solid 4px blue;
+}
+.name1 input:active{
+
+    border-bottom: solid 4px #00a400;
+}
+.name1 input:hover{
+
+    border-bottom: solid 4px #00a400;
+}
+.design{
+border: 3px solid gainsboro;
+text-align: center;
+padding-bottom: 80px;
+}
+
+
+.login_button .button{
+    height: 60px;
+ width: 180px;
+ font-size: larger;
+ background-color: #00a400;
+ color:#fff;
+ border: 1px solid  #00a400; 
+ border-radius: 10px;
+}
+
+.login_button .button:hover{
+    border: 1px solid #79bc64 ;
+    background-color:#79bc64  ;
+}
+
+.login_button .button:active{
+
+position: relative;
+top: 10px;
+background-color:#578843  ;
+border: 1px solid #578843 ;
+}
+
+.signup{
+    width: 100px;
+    height: 40px;
+    background-color: #00a400;
+    color:#fff;
+    border: 1px solid  #00a400; 
+    border-radius: 10px;
+    font-size: 19px;
+    
+}
+
+.signup:hover{
+    border: 1px solid #79bc64 ;
+    background-color:#79bc64  ;
+}
+
+.signup:active{
+
+margin-top: 10px;
+background-color:#578843  ;
+border: 1px solid #578843 ;
+}
